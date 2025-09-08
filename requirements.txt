@@ -1,0 +1,6 @@
+requests
+python-dotenv
+faiss-cpu
+numpy
+pandas
+matplotlib
